@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+email: ma39isy@gmail.com
+url: "http://yazid138.github.io"
+baseurl: ""
+timezone: Asia/Jakarta
+Locale: en_US
+plugins:
+   - jekyll-paginate
+comments: true
